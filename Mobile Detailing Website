@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shine and Drive Mobile Detailing</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-900">
+  <!-- Hero Section -->
+  <section class="bg-blue-900 text-white text-center py-16 px-6">
+    <h1 class="text-4xl md:text-5xl font-bold mb-4">Shine and Drive Mobile Detailing</h1>
+    <p class="text-lg md:text-xl mb-6">Professional Mobile Car Detailing at Your Doorstep</p>
+    <p class="mb-4 max-w-xl mx-auto">Get your car looking brand new without leaving your driveway. Call us today to book!</p>
+    <a href="tel:+37477633433" class="bg-yellow-400 text-blue-900 font-semibold px-6 py-3 rounded-lg shadow-lg hover:bg-yellow-300">Call Now to Book</a>
+    <p class="mt-4 text-sm">Tip: You can deploy your website online by connecting a GitHub repository to a hosting provider like <strong>Vercel</strong> for a live URL.</p>
+  </section>
+
+  <!-- Services Section -->
+  <section class="max-w-4xl mx-auto py-12 px-6">
+    <h2 class="text-3xl font-bold text-center mb-8">Our Services</h2>
+    <div class="grid gap-8 md:grid-cols-3">
+      <div class="bg-white rounded-2xl shadow-lg p-6">
+        <h3 class="text-xl font-semibold mb-2">Exterior Wash</h3>
+        <p class="mb-2">Hand wash, wax, and shine for a spotless exterior.</p>
+        <p class="font-bold">Starting at $14.99</p>
+      </div>
+      <div class="bg-white rounded-2xl shadow-lg p-6">
+        <h3 class="text-xl font-semibold mb-2">Interior Detailing</h3>
+        <p class="mb-2">Deep cleaning of seats, carpets, and all surfaces.</p>
+        <p class="font-bold">Starting at $10.99</p>
+      </div>
+      <div class="bg-white rounded-2xl shadow-lg p-6">
+        <h3 class="text-xl font-semibold mb-2">Full Detail</h3>
+        <p class="mb-2">Complete interior & exterior detailing package.</p>
+        <p class="font-bold">Starting at $18.99</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section class="bg-gray-200 py-12 px-6 text-center">
+    <h2 class="text-3xl font-bold mb-4">Why Choose Us?</h2>
+    <p class="max-w-2xl mx-auto">We bring professional car care directly to your home or office. With high-quality products and attention to detail, we make your car look and feel brand new — without the hassle of leaving your driveway.</p>
+  </section>
+
+  <!-- Contact Section -->
+  <section class="py-12 px-6 text-center">
+    <h2 class="text-3xl font-bold mb-4">Contact Us</h2>
+    <p class="mb-4">Ready for that showroom shine? Call us today to book your appointment.</p>
+    <a href="tel:+37477633433" class="bg-blue-900 text-white font-semibold px-6 py-3 rounded-lg shadow-lg hover:bg-blue-700">📞 Call +(374) 77633433</a>
+    <p class="mt-4 text-sm">Or deploy online by connecting a GitHub repository to <strong>Vercel</strong> to get a live website URL.</p>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-blue-900 text-white text-center py-6">
+    <p>&copy; 2025 Shine and Drive Mobile Detailing. All rights reserved.</p>
+  </footer>
+</body>
+</html>
